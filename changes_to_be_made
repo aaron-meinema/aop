@@ -1,0 +1,7 @@
+TOKEN 
+add more types to token for better performance
+add more tokens for things like classes etc.
+LEXER
+attach filenames and line numbers to tokens
+add unicode support
+add float support/ other types support
